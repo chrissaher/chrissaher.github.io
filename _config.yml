@@ -30,7 +30,8 @@ twitter_username: chrissaher
 github_username:  chrissaher
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+# theme: minima
 plugins:
   - jekyll-feed
 

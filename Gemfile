@@ -33,4 +33,12 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Integration with github pages
 group :jekyll_plugins do
   gem "github-pages", "~> 219"
+  gem 'jekyll-feed', '~> 0.15.1'
+  gem 'jekyll-remote-theme'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
+end
+
+group :jekyll_plugins do
+
 end
