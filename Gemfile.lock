@@ -271,8 +271,7 @@ PLATFORMS
   universal-darwin-20
 
 DEPENDENCIES
-  github-pages (~> 219)
-  jekyll (~> 3.9.0)
+  github-pages
   jekyll-feed (~> 0.15.1)
   jekyll-remote-theme
   jekyll-seo-tag
